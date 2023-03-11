@@ -10,15 +10,15 @@ To use the application, you need to run the `server.py` script first. This start
 2. Get notes
 3. Quit
 
-## Adding a Note
+### Adding a Note
 
 To add a note, choose option 1 and enter the topic, note name, note text, and optionally a link to a Wikipedia page related to the topic. If the topic already exists, the note will be added to it. Otherwise, a new topic will be created and the note added to it. If a Wikipedia link is added, it will be stored along with the note in the database.
 
-## Getting Notes
+### Getting Notes
 
 To get notes, choose option 2 and enter the topic. The application will retrieve all the notes for the topic and display them on the console. If a Wikipedia link was added to a note, it will be displayed along with the note.
 
-## Quitting
+### Quitting
 
 To quit the application, choose option 3.
 
