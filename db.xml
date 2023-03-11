@@ -1,0 +1,21 @@
+<data>
+    <topic name="Finland">
+        <note name="Lahti">
+            <text>Nice city</text>
+            <timestamp>03/11/2023 - 17:45:33</timestamp>
+            <info>https://en.wikipedia.org/wiki/Lahti</info>
+        </note>
+        <note name="Helsinki">
+            <text>Capital</text>
+            <timestamp>03/11/2023 - 17:49:27</timestamp>
+            <info>https://en.wikipedia.org/wiki/Helsinki</info>
+        </note>
+    </topic>
+    <topic name="Students">
+        <note name="Lahti campus">
+            <text>Sad</text>
+            <timestamp>03/11/2023 - 17:49:50</timestamp>
+            <info>No link</info>
+        </note>
+    </topic>
+</data>
