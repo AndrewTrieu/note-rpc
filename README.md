@@ -26,7 +26,7 @@ To quit the application, choose option 3.
 
 This video is recorded for the course CT30A3401 Distributed Systems at LUT University, Finland.
 
-https://user-images.githubusercontent.com/68151686/224494386-c5fef11c-4bf5-4075-8d3b-a6e7a0f5859b.mp4
+https://user-images.githubusercontent.com/68151686/224495082-f0368d79-c0aa-47ac-9e82-e71f268cc720.mp4
 
 ## File Structure
 
