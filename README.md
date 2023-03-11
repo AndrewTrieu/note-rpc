@@ -26,6 +26,8 @@ To quit the application, choose option 3.
 
 This video is recorded for the course CT30A3401 Distributed Systems at LUT University, Finland.
 
+https://user-images.githubusercontent.com/68151686/224494386-c5fef11c-4bf5-4075-8d3b-a6e7a0f5859b.mp4
+
 ## File Structure
 
 `client.py`: The client script that communicates with the server.
